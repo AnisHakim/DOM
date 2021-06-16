@@ -1,0 +1,54 @@
+.container{
+    
+}
+img {
+    width: 250px;
+    height: 150px;
+}
+body {
+    background-image: url(backGround.jpg);
+}
+
+table{
+    box-shadow: 0 5px 10px 0 #d3cfc9;
+    width: 1200px;
+    margin: 50px auto;
+}
+table th {
+   
+}
+img {
+ display: block;
+ margin: 0 auto;
+}
+.btn-cont{
+    align-items: center;
+    height: 20px;
+    display: flex;
+    justify-content: space-between;
+ 
+}
+.unitPrice{
+    text-align: center;
+}
+.price {
+    text-align: center;
+}
+
+h1 {
+    color:#00b39b;
+}
+
+th{
+    color: #00b39b;
+}
+
+input{
+    display: block;
+    margin: 0 auto;
+}
+
+#total{
+    font-size: x-large;
+    color: blueviolet;
+}
